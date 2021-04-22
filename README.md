@@ -12,3 +12,5 @@ The dataset includes a ‘Summary- HHI.CSV’ fle which contains 22 columns (‘
 The dataset contains a ‘Summary-Market Share (%).CSV’ fle with 21 columns (‘Element’, ‘Notes’, ‘Country’, ‘1998’, ‘1999’, ‘2000’, ‘2001’, ‘2002’, ‘2003’, ‘2004’, ‘2005’, ‘2006’, ‘2007’, ‘2008’, ‘2009’, ‘2010’, ‘2011’, ‘2012’, ‘2013’, ‘2014’, ‘2015) which summarizes the market share by element on a per country basis for each year in the range provided. 
 
 Finally, the data include a ‘prices.CSV’ fle with 10 columns (‘Element’, ‘Year’, ‘Dollars’, ‘Change in Absolute Dollars’, ‘Change in Absolute Dollars (%)’, ‘Price Index’, ‘1998 Dollars’, ‘Change in 1998 Dollars’, ‘Change in 1998 Dollars (%)’, and ‘Notes’).
+
+A folder entitled "Figures" contains some visualizations of the data over time as well as some python scripts to generate these figures. 
